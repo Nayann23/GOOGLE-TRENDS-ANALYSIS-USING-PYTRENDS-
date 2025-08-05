@@ -44,7 +44,7 @@ You are working as a data analyst and have been asked to:
 ## 📈 Visualizations
 
 ### 🔹 Top 15 Countries by Interest
-![Top 15 Countries Bar Chart](top_countries_searching_for_cloudcomputing.png)
+![Top 15 Countries Bar Chart](Visuals\top_countries_searching_for_cloudcomputing.png)
 
 ### 🔹 World Map of Keyword Interest
 ![World Map](newplot.png)
