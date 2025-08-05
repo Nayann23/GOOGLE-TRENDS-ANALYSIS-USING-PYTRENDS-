@@ -44,14 +44,11 @@ You are working as a data analyst and have been asked to:
 ## 📈 Visualizations
 
 ### 🔹 Top 15 Countries by Interest
-![Top 15 Countries Bar Chart](Visuals/top_countries_searching_for_cloudcomputing.png)
+![Top 15 Countries](Visuals/Top%20Countries%20Searching%20for%20artificial%20intelligence.png)
 
 ### 🔹 World Map of Keyword Interest
-![World Map](Visuals/newplot.png)
+![World Map](Visuals/Search%20interest%20over%20time%20artificial%20intelligence.png)
 
 ### 🔹 Related Keywords Comparison
-![Related Keywords Graph](Visuals/comparison.png)
-
-> 💡 *All charts are automatically generated based on the keyword input.*
-
+![Keyword Comparison](Visuals/Keywords%20comparison%20over%20time.png)
 
